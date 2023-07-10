@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TayyabaK
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Mongodb
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in MERN stack 
+- 🌱 I’m currently learning writing contracts in solidity language
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me [tayyaba.khalil@gmail.com]
 
 <!---
