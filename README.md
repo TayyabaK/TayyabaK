@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TayyabaK
-- 👀 I’m interested in MERN stack 
-- 🌱 I’m currently learning writing contracts in solidity language
-- 💞️ I’m looking to collaborate on React Projects
+- 👀 I’m interested in Problem Solving, algorithms, Python Java 
+- 🌱 I’m currently learning writing contracts in Solidity language
+- 💞️ I’m looking to collaborate on Python, Node.js, Java projects
 - 📫 How to reach me [tayyaba.khalil@gmail.com]
 
 <!---
