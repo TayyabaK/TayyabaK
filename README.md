@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TayyabaK
 - 👀 I’m interested in Problem Solving, algorithms, Python and Java 
 - 🌱 I’m currently learning writing contracts in Solidity language
-- 💞️ I’m looking to collaborate on Python, Node.js, Java projects
+- 💞️ I’m looking to collaborate on Python, Node.js, Java projects, React
 - 📫 How to reach me [tayyaba.khalil@gmail.com]
 
 <!---
