@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @TayyabaK
-- 👀 I’m interested in Problem Solving, algorithms, Python and Java 
-- 🌱 I’m currently learning writing contracts in Solidity language
-- 💞️ I’m looking to collaborate on Python, Node.js, Java projects, React
-- 📫 How to reach me [tayyaba.khalil@gmail.com]
+Fullstack Web Developer @ BRDigitech | Blockchain Technology | AWS | MERN Stack | C#.Net | TypeScript | JavaScript
 
-<!---
-TayyabaK/TayyabaK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in creating decentralized applications (dApps) that interact with blockchains, including both EVM-compatible chains and Solana. With experience connecting wallets to dApps for these platforms, I deliver secure and seamless blockchain integrations. At BRDigitech, I work on full-stack development with a back-end focus, using the MERN stack (MongoDB, Express, React, Node.js) and leveraging AWS services like Cognito, Lambda, API Gateway, and DynamoDB.
+
+I also contribute to blockchain-based projects such as tokenized real estate and cryptocurrency staking, utilizing Solidity and other blockchain technologies. 
