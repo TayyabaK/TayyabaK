@@ -132,23 +132,6 @@ Led Web3 integration for a multi-chain marketplace platform — wallet connectiv
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TayyabaK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TayyabaK&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabaK&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TayyabaK&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## ✍️ Beyond the Code
 
 When I'm not shipping smart contracts, I write. I publish books, articles, book summaries, and poetry on my personal Next.js site at [**tayyabaat.com**](https://tayyabaat.com/). It's where I think out loud about ideas that don't fit into commit messages — a counterweight to the precision of code, and a reminder that good engineering is built on clear thinking, wherever it shows up.
