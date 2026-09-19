@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a senior full-stack blockchain engineer with **18+ years in software** and **4+ years shipping production Web3 systems** across the Solana and EVM ecosystems.
+I'm a senior full-stack blockchain engineer with **7+ years in software** and **4+ years shipping production Web3 systems** across the Solana and EVM ecosystems.
 
 I build dApps and smart contracts end-to-end — from protocol design and Solidity architecture through Next.js dApps and AWS serverless infrastructure. My focus areas are **RWA tokenization, NFT marketplaces, launchpads, and complex on-chain financial primitives**.
 
