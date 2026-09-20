@@ -19,7 +19,7 @@
 
 I'm a senior full-stack blockchain engineer with **7+ years in software** and **4+ years shipping production Web3 systems** across the Solana and EVM ecosystems.
 
-I build dApps and smart contracts end-to-end — from protocol design and Solidity architecture through Next.js dApps and AWS serverless infrastructure. My focus areas are **RWA tokenization, NFT marketplaces, launchpads, and complex on-chain financial primitives**.
+I build dApps and smart contracts end-to-end — from protocol design and Solidity architecture through Next.js dApps and AWS serverless infrastructure. My focus areas are **RWA tokenization, NFT marketplaces, launchpads, phygital collectibles, and complex on-chain financial primitives**.
 
 Before Web3, I taught Computer Science at university level (AI, Algorithms, Data Structures), which still shapes how I approach engineering: clean architecture, maintainable code, and a strong CS foundation behind every system I ship.
 
@@ -27,8 +27,9 @@ Before Web3, I taught Computer Science at university level (AI, Algorithms, Data
 
 ## 🚀 What I'm Working On
 
+- 🎟️ **NOFU** — A phygital collectibles platform pairing Ethereum NFTs with physical items via on-chain Certificates of Authority, designed and built end to end: collector dApp, ops dashboard, NestJS API, multi-chain contracts, and Goldsky indexers ([nofu.co](https://nofu.co))
+- 🎬 **TRYP24** — A full-stack Web3 platform for the entertainment industry: creator launchpad, NFT marketplace with escrowed USDC auctions, and near-real-time revenue dashboards
 - 🏗️ **Vegas Tiny Homes** — A full-stack real estate platform connecting builders, landowners, and buyers (Next.js · Node.js · AWS · CI/CD)
-- 🎨 **ArtKidz** — A Solana NFT studio and kid-safe marketplace with AI image generation and Anchor-based contracts
 - 📚 Continuously deepening expertise in **smart contract security**, audit-readiness patterns, and gas optimization
 
 ---
@@ -40,12 +41,14 @@ Before Web3, I taught Computer Science at university level (AI, Algorithms, Data
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anchor-512BD4?style=for-the-badge&logo=anchor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hardhat-F0D71E?style=for-the-badge&logo=ethereum&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white"/>
   <img src="https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logo=thegraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Goldsky-6E56CF?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
 </p>
 
@@ -53,8 +56,10 @@ Before Web3, I taught Computer Science at university level (AI, Algorithms, Data
 <p>
   <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/viem-FFC517?style=for-the-badge&logo=ethereum&logoColor=black"/>
+  <img src="https://img.shields.io/badge/wagmi-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metaplex-512BD4?style=for-the-badge&logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RainbowKit-085A5C?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white"/>
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Phantom-AB9FF2?style=for-the-badge&logo=phantom&logoColor=white"/>
@@ -74,6 +79,7 @@ Before Web3, I taught Computer Science at university level (AI, Algorithms, Data
 ### Backend & Cloud
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -102,6 +108,17 @@ Before Web3, I taught Computer Science at university level (AI, Algorithms, Data
 ---
 
 ## 🌟 Featured Projects
+
+### 🎟️ NOFU — Phygital Collectibles Platform
+A phygital collectibles platform pairing Ethereum NFTs with physical items authenticated by on-chain Certificates of Authority — without burning the digital NFT on redemption. Digital and physical ownership can split, resell independently, and reunite later. Designed and built end to end: public collector dApp, internal ops dashboard, NestJS API, multi-chain smart contracts, and Goldsky indexers. Flagship drop — NOFU World Tiles: 366 landmarks × 10 editions = 3,660 mosaic NFTs across 7 regions, minted on Ethereum via OpenSea SeaDrop, each linkable 1:1 to a physical NOFU Card backed by a COA NFT on Soneium.
+> **Role:** Full-Stack & Smart Contract Developer (Design & Build Lead)
+> **Stack:** Next.js 16 · React 19 · TypeScript · NestJS · Solidity (Foundry) · Goldsky · Alchemy · IPFS · Vercel
+> **Live:** [nofu.co](https://nofu.co)
+
+### 🎬 TRYP24 — Web3 Platform for the Entertainment Industry
+A full-stack Web3 platform bringing blockchain to entertainment — helping creators launch, sell, and earn, and helping fans collect, bid, and support projects on-chain. Phase 1 MVP ships four modules: Creator Launchpad, NFT Marketplace, Wallet & Payments, and a live Revenue Dashboard. Marketplace features English auctions with USDC bidding, NFT escrow, anti-sniping extensions, and pull-based settlement; the revenue dashboard runs near-real-time (<60s) off Goldsky subgraphs rather than ad-hoc RPC scans.
+> **Role:** Full-Stack Developer
+> **Stack:** Next.js · TypeScript · NestJS · MongoDB · viem · Solidity (Hardhat) · Goldsky · AWS CDK
 
 ### 🏛️ TKT Smart Contract Suite — Tokenized Real Estate Investment Protocol
 A 5-contract modular DeFi protocol on Ethereum that tokenizes real estate projects through ERC-20 tokens. Features a weighted-average holding timestamp mechanism, two-phase reversible burns for investor exits, and atomic 75/20/5 fund allocation across real estate, staking, and development pools. Deployed and verified on Sepolia.
